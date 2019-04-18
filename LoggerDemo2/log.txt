@@ -1,0 +1,7 @@
+DEBUG - taking the user input
+DEBUG - calling the user defined methods
+DEBUG - -----------------------------------------------
+DEBUG - here i m wishing u by ur name :abhi
+DEBUG - here i m warning u by ur name :abhi
+DEBUG - ------------------------------------------------
+INFO - executed successfully
